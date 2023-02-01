@@ -103,8 +103,6 @@ public class PlayerAgent : Agent
 
             StartCoroutine(SwapGroundMaterial(failureMaterial, 0.5f));
         }
-
-        // MoveAgent(vectorAction.DiscreteActions);
     }
 
     // tell agent how to move on x axis and z axis
