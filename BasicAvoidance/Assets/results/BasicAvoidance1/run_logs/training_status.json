@@ -1,0 +1,29 @@
+{
+    "PlayerAvoidance": {
+        "checkpoints": [
+            {
+                "steps": 41246,
+                "file_path": "results/BasicAvoidance1/PlayerAvoidance/PlayerAvoidance-41246.onnx",
+                "reward": null,
+                "creation_time": 1675438126.0080566,
+                "auxillary_file_paths": [
+                    "results/BasicAvoidance1/PlayerAvoidance/PlayerAvoidance-41246.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 41246,
+            "file_path": "results/BasicAvoidance1/PlayerAvoidance.onnx",
+            "reward": null,
+            "creation_time": 1675438126.0080566,
+            "auxillary_file_paths": [
+                "results/BasicAvoidance1/PlayerAvoidance/PlayerAvoidance-41246.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}
